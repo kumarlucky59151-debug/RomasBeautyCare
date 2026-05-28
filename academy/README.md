@@ -3,12 +3,6 @@
 ## Overview
 CTech Academy is a coaching academy website designed for classes 4-10. It provides a professional online presence for showcasing courses, features, and student testimonials.
 
-## 🌐 Live Website
-**Your website is now hosted and available at:**
-```
-https://kumarlucky59151-debug.github.io/RomasBeautyCare/
-```
-
 ## Features
 
 ### Sections Included:
@@ -29,20 +23,15 @@ https://kumarlucky59151-debug.github.io/RomasBeautyCare/
 - **Computer Science** (Classes 6-10)
 - **Regional Languages** (Classes 4-10)
 
-## 📞 Contact Information
-- **Address:** Gandhi Nagar Colony, Sigra, Varanasi
-- **Phone:** +91 8303582279
-- **Email:** kumarlucky59151@gmail.com
-
 ## Technology Stack
 - **HTML5** - Structure
 - **CSS3** - Styling with gradients, animations, and responsive design
 - **JavaScript** - Interactivity and smooth scrolling
 - **Font Awesome** - Icons
-- **GitHub Pages** - Hosting
 
 ## File Structure
 ```
+academy/
 ├── index.html      # Main HTML file
 ├── styles.css      # Styling
 ├── script.js       # JavaScript functionality
@@ -52,11 +41,10 @@ https://kumarlucky59151-debug.github.io/RomasBeautyCare/
 ## Key Features
 
 ### Design Elements
-- Beautiful purple/blue gradient theme (667eea to 764ba2)
-- Fully responsive (works on mobile, tablet, desktop)
-- Smooth animations and hover effects
-- Professional layout
-- Interactive elements with JavaScript
+- **Gradient Theme** - Purple/Blue gradient (667eea to 764ba2)
+- **Responsive Design** - Mobile-friendly layout
+- **Smooth Animations** - Card hover effects, scroll animations
+- **Professional Layout** - Clean and organized sections
 
 ### Interactive Elements
 - Smooth scroll navigation
@@ -69,18 +57,18 @@ https://kumarlucky59151-debug.github.io/RomasBeautyCare/
 
 To customize the website:
 
-1. **Change Contact Information** - Update phone, email, and address in `index.html`
+1. **Change Contact Information** - Update phone, email, and address in the contact section
 2. **Modify Colors** - Edit the gradient colors in `styles.css`
 3. **Update Course Details** - Modify course descriptions in `index.html`
 4. **Add More Content** - Extend sections as needed
-5. **Update Social Media Links** - Replace # with actual social profile URLs in `index.html`
+5. **Update Social Media Links** - Replace # with actual social profile URLs
 
-## How to Make Changes
+## How to Use
 
-1. Edit the files in your repository
-2. Commit and push to the `ctech-academy` branch
-3. GitHub Pages will automatically rebuild and deploy your changes
-4. Changes will be live within a few minutes
+1. Open `index.html` in a web browser
+2. Navigate through sections using the top menu
+3. Contact information is in the Contact section
+4. Customize content as needed
 
 ## Browser Support
 - Chrome (latest)
@@ -96,7 +84,6 @@ To customize the website:
 - Blog section
 - Testimonials management
 - Analytics dashboard
-- Mobile app
 
 ## License
 This website is created for CTech Academy.
@@ -105,4 +92,3 @@ This website is created for CTech Academy.
 
 **Created:** May 2026
 **Version:** 1.0
-**Hosted:** GitHub Pages
